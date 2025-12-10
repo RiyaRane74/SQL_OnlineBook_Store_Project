@@ -1,5 +1,6 @@
 # SQL_OnlineBook_Store_Project
 Online Book Store Project
+
 A SQL-based project for managing an online bookstore with features like:
 - 📚 Book inventory management
 - 🛍 Order processing
